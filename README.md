@@ -1,6 +1,7 @@
 # 🧾 FairShare
 
 `FairShare` is a 🖥️ web-based tool designed for friends or colleagues looking to split their bills 💸 effortlessly. Ever been in a situation where multiple people have paid for different items, and now you need to ensure everyone gets reimbursed fairly? Then this is the tool for you!
+Live preview at https://interacme.netlify.app
 
 ## 🌟 Features
 
